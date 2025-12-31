@@ -4,7 +4,7 @@ metadata:
   name: my-deployment
   namespace: deeksha-ns
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: my-app
